@@ -21,9 +21,9 @@
     "jquery-ui-touch-punch-improved": "^0.3.1",
     "font-awesome": "^4.7.0",
     "notify.me": "^0.6.2",
-    "popupjs": "^2.2.3",
+    "popupjs": "^1.1.6",
     "vue": "^2.4.2",
-    "local-storage-api": "^1.4.2",
+    "local-storage-api": "^1.0.1",
     "crypto-js": "^3.1.8",
     "clipboard": "^1.7.1"
   }
